@@ -1,0 +1,3 @@
+Total Time: 78.75150513648987
+Period: 0.02155803589829999
+Sampling Frequency: 46
